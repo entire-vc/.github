@@ -11,8 +11,7 @@ This is the home for projects built by the [Entire VC](https://entire.vc) commun
 ## 🤝 Get Involved
 
 - 🌐 [Join our community](https://entire.vc)
-- 💬 [Telegram](https://t.me/entirevc)
-- 💼 [LinkedIn](https://linkedin.com/company/entirevc)
+- 💬 [Telegram](https://t.me/entire_vc)
 
 ## 📬 Contact
 
