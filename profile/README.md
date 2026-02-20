@@ -1,10 +1,8 @@
-# Entire VC — Toolbox for AI-native builders
+# Toolbox for AI-native builders
 
 Open-source tools that connect your knowledge base, AI agents, and team — into repeatable workflows.
 
 Obsidian is our first integration layer. The platform goes wider: agent marketplace, MCP gateway, unified credits, team collaboration.
-
-## Toolbox
 
 | Layer | Product | What it does | Links |
 |-------|---------|-------------|-------|
