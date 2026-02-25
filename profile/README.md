@@ -16,7 +16,6 @@ Obsidian is our first integration layer. The platform goes wider: agent marketpl
 
 - **[Spark](https://spark.entire.vc)** — your AI toolbox for real work. Agents, skills, prompts, bundles and MCP connectors — find, share and monetize AI tools. Already live!
 - **MCP Gate** — unified gateway to multiple MCP servers with metering and credits
-- **EVC Credits** — single balance for subscriptions, marketplace purchases, and usage-based billing
 
 ## Quick Start
 
