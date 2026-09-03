@@ -8,7 +8,7 @@ Obsidian is our first integration layer. The platform goes wider: agent marketpl
 |-------|---------|-------------|-------|
 | **Sync** | [Local Sync](https://github.com/entire-vc/evc-local-sync-plugin) | Bidirectional sync between Obsidian vault and AI dev tools (Claude Code, Cursor, VS Code) | [Install](https://obsidian.md/plugins?id=evc-local-sync) |
 | **Collaboration** | [Team Relay](https://github.com/entire-vc/evc-team-relay) | Self-hosted real-time collaboration server for Obsidian. Includes web publishing | [Docker](https://github.com/entire-vc/evc-team-relay#quick-start) |
-| **Collaboration** | [Team Relay Plugin](https://github.com/entire-vc/evc-team-relay-obsidian-plugin) | Obsidian plugin for live team editing via Team Relay | [Install](https://obsidian.md/plugins?id=evc-team-relay) |
+| **Collaboration** | [Team Relay Plugin](https://github.com/entire-vc/evc-team-relay-plugin) | Obsidian plugin for live team editing via Team Relay | [Install](https://obsidian.md/plugins?id=team-relay) |
 | **AI Agents** | [OpenClaw Skill](https://github.com/entire-vc/evc-team-relay-openclaw-skill) | REST API skill — let AI agents read/write Obsidian notes in real-time | [Setup](https://github.com/entire-vc/evc-team-relay-openclaw-skill#readme) |
 | **AI Agents** | [Spark MCP](https://github.com/entire-vc/evc-spark-mcp) | MCP server for the Spark workflow catalog. Use with Claude, ChatGPT, any MCP client | `npx evc-spark-mcp` |
 
