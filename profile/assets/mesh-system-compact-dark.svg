@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 790" role="img" aria-labelledby="title desc">
+<title id="title">One workspace. Connected capabilities</title><desc id="desc">People use the Mesh web interface. Agents connect directly through MCP or REST; Runner starts or resumes Claude Code and Codex task sessions on your machine. Keep delivers secrets to the target host, outside model context. TokenLedger shows usage. Your extension can be released, reviewed and shared through Spark, then installed in Mesh.</desc>
+<defs>
+   <pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M-2 2L2-2M0 9L9 0M7 11L11 7" stroke="#355050" stroke-width=".7"/></pattern>
+   <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#698989" stroke-width="1.2" stroke-linejoin="round"/></marker>
+   <marker id="active" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#68D3CE" stroke-width="1.3" stroke-linejoin="round"/></marker>
+   </defs>
+<rect width="900" height="790" rx="12" fill="#101919"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" fill="#EEF7F7">
+<rect x="17" y="405" width="866" height="368" rx="12" fill="url(#hatch)" stroke="#355050" stroke-width="1.6"/>
+<path d="M131 111 V217 Q131 235 149 235 H308" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="115.0" y="178.4" width="152.0" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="191" y="212" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Web UI</text>
+<path d="M750 112 V165 Q750 183 732 183 H594" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="595.0" y="119.4" width="240.00000000000003" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="715" y="153" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">MCP / REST</text>
+<rect x="663" y="257" width="184" height="400" rx="12" fill="#132020" stroke="#355050" stroke-width="1.6"/>
+<path d="M592 281 H671" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="659.0" y="215.4" width="130.0" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="724" y="249" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Tasks</text>
+<path d="M672 350 H629 V321 H594" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="383.0" y="376.4" width="174.0" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="470" y="410" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Results</text>
+<path d="M754 357 V442" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M159 436 V347 Q159 329 177 329 H310" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 6" marker-end="url(#arrow)"/>
+<path d="M431 441 V352" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 6" marker-end="url(#arrow)"/>
+<path d="M148 552 V598" fill="none" stroke="#68D3CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#active)"/>
+<path d="M551 702 H618" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M733 673 V637 Q733 624 720 624 H650 V392 Q650 376 634 376 H612 V339 H596" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 6" marker-end="url(#arrow)"/>
+<circle cx="104" cy="35" r="8.8" fill="#1B3737" stroke="#68D3CE" stroke-width="1.9800000000000002"/>
+<path d="M87.5 68.0 v-6.6000000000000005 a16.5 16.5 0 0 1 33.0 0 v6.6000000000000005" fill="none" stroke="#68D3CE" stroke-width="1.9800000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="69" font-size="40" font-weight="500" fill="#EEF7F7" text-anchor="start">People</text>
+<rect x="705" y="27" width="152" height="90" rx="10" fill="#132020" stroke="#355050" stroke-width="1.6"/>
+<rect x="698" y="20" width="152" height="90" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<path d="M698 47 h152" fill="none" stroke="#355050" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="711" cy="34" r="2.5" fill="#698989"/>
+<circle cx="721" cy="34" r="2.5" fill="#698989"/>
+<circle cx="731" cy="34" r="2.5" fill="#698989"/>
+<path d="M720 69 l12 11 l-12 11 M744 91 h20" fill="none" stroke="#68D3CE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M723 85 h57.76" fill="none" stroke="#355050" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="772" y="85" font-size="40" font-weight="600" fill="#EEF7F7" text-anchor="middle">Agents</text>
+<rect x="310" y="193" width="284" height="160" rx="12" fill="#1B3737" stroke="#355050" stroke-width="1.6"/>
+<text x="452" y="249" font-size="52" font-weight="650" fill="#68D3CE" text-anchor="middle">Mesh</text>
+<text x="452" y="300" font-size="40" font-weight="450" fill="#EEF7F7" text-anchor="middle">Tasks · Context</text>
+<rect x="675" y="266" width="157" height="90" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<text x="754" y="323" font-size="40" font-weight="600" fill="#EEF7F7" text-anchor="middle">Runner</text>
+<rect x="50" y="443" width="220" height="110" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<text x="160" y="514" font-size="42" font-weight="600" fill="#EEF7F7" text-anchor="middle">Keep</text>
+<rect x="55" y="600" width="210" height="51" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<path d="M72 622 Q72 612 82 612 H84.16 l12 12 H94 Q104 624 104 634 V630 Q104 638 96 638 H80 Q72 638 72 630 Z" fill="#172424" stroke="#698989" stroke-width="1.8"/>
+<text x="179" y="645" font-size="40" font-weight="500" fill="#EEF7F7" text-anchor="middle">Host</text>
+<rect x="65.0" y="543.4" width="174.0" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="152" y="577" font-size="40" font-weight="450" fill="#68D3CE" text-anchor="middle">Secrets</text>
+<rect x="308" y="443" width="300" height="159" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<text x="458" y="492" font-size="40" font-weight="600" fill="#EEF7F7" text-anchor="middle">TokenLedger</text>
+<rect x="345" y="545" width="14" height="27" rx="2" fill="#68D3CE" stroke="none" stroke-width="1.6"/>
+<rect x="373" y="527" width="14" height="45" rx="2" fill="#68D3CE" stroke="none" stroke-width="1.6"/>
+<rect x="401" y="537" width="14" height="35" rx="2" fill="#68D3CE" stroke="none" stroke-width="1.6"/>
+<rect x="429" y="514" width="14" height="58" rx="2" fill="#68D3CE" stroke="none" stroke-width="1.6"/>
+<text x="517" y="569" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Usage</text>
+<rect x="675" y="444" width="156" height="158" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<path d="M696 476 Q696 466 706 466 H715.76 l12 12 H738 Q748 478 748 488 V495 Q748 503 740 503 H704 Q696 503 696 495 Z" fill="#172424" stroke="#698989" stroke-width="1.8"/>
+<path d="M744 520 Q744 510 754 510 H763.76 l12 12 H786 Q796 522 796 532 V539 Q796 547 788 547 H752 Q744 547 744 539 Z" fill="#172424" stroke="#698989" stroke-width="1.8"/>
+<text x="754" y="588" font-size="40" font-weight="500" fill="#EEF7F7" text-anchor="middle">Sessions</text>
+<text x="754" y="641" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Your host</text>
+<rect x="33" y="677" width="286" height="96" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<text x="176" y="714" font-size="40" font-weight="500" fill="#EEF7F7" text-anchor="middle">Your</text>
+<text x="176" y="765" font-size="40" font-weight="500" fill="#EEF7F7" text-anchor="middle">extension</text>
+<path d="M319 716 H375" fill="none" stroke="#698989" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="383" y="676" width="166" height="78" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<text x="466" y="726" font-size="40" font-weight="500" fill="#EEF7F7" text-anchor="middle">Release</text>
+<rect x="624" y="676" width="217" height="78" rx="10" fill="#172424" stroke="#355050" stroke-width="1.6"/>
+<text x="733" y="726" font-size="42" font-weight="600" fill="#EEF7F7" text-anchor="middle">Spark</text>
+<rect x="390.0" y="617.4" width="152.0" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="466" y="651" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Review</text>
+<rect x="574.0" y="392.4" width="174.0" height="48.0" rx="4" fill="#101919" stroke="none" stroke-width="1.6"/>
+<text x="661" y="426" font-size="40" font-weight="450" fill="#B0C7C7" text-anchor="middle">Install</text>
+</g></svg>

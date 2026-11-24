@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 770" role="img" aria-labelledby="title desc">
+<title id="title">One workspace. Connected capabilities</title><desc id="desc">People use the Mesh web interface. Agents connect directly through MCP or REST; Runner starts or resumes Claude Code and Codex task sessions on your machine. Keep delivers secrets to the target host, outside model context. TokenLedger shows usage. Your extension can be released, reviewed and shared through Spark, then installed in Mesh.</desc>
+<defs>
+   <pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M-2 2L2-2M0 9L9 0M7 11L11 7" stroke="#DDECEC" stroke-width=".7"/></pattern>
+   <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#6E8C8C" stroke-width="1.2" stroke-linejoin="round"/></marker>
+   <marker id="active" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#006D6D" stroke-width="1.3" stroke-linejoin="round"/></marker>
+   </defs>
+<rect width="1200" height="770" rx="12" fill="#FFFFFF"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" fill="#0B1B1B">
+<rect x="30" y="431" width="1140" height="312" rx="12" fill="url(#hatch)" stroke="#DDECEC" stroke-width="1.6"/>
+<rect x="900" y="271" width="239" height="318" rx="12" fill="#F3F8F8" stroke="#DDECEC" stroke-width="1.6"/>
+<text x="1020" y="307" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Your machine / server</text>
+<path d="M186 126 V218 Q186 238 206 238 H415" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="236.0" y="221.2" width="86.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="279" y="238" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Web UI</text>
+<path d="M989 127 V188 Q989 205 972 205 H786" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="826.0" y="188.2" width="130.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="891" y="205" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">MCP / REST</text>
+<path d="M785 282 H846 Q864 282 864 300 V364 H924" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="773.0" y="250.2" width="174.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="860" y="267" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Tasks / events</text>
+<path d="M926 393 H835 Q817 393 817 375 V319 H786" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="809.5" y="400.2" width="97.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="858" y="417" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Results</text>
+<path d="M1021 421 V457" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="934.0" y="431.2" width="174.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="1021" y="448" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Start / resume</text>
+<path d="M182 479 V378 Q182 361 199 361 H480 V338" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 5" marker-end="url(#arrow)"/>
+<rect x="225.5" y="344.2" width="207.00000000000003" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="329" y="361" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Metadata / status</text>
+<path d="M493 480 V405 Q493 387 511 387 H600 V338" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 5" marker-end="url(#arrow)"/>
+<rect x="505.0" y="370.2" width="130.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="570" y="387" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Usage view</text>
+<path d="M179 577 V644" fill="none" stroke="#006D6D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#active)"/>
+<rect x="86.5" y="601.2" width="185.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="179" y="618" font-size="20" font-weight="450" fill="#006D6D" text-anchor="middle">Secret delivery</text>
+<path d="M564 691 H642" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="507.0" y="613.2" width="196.0" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="605" y="630" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Release / review</text>
+<path d="M825 692 H857 Q876 692 876 674 V461 Q876 441 857 441 H740 Q720 441 720 421 V339" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="708.0" y="628.2" width="218.00000000000003" height="24.0" rx="4" fill="#FFFFFF" stroke="none" stroke-width="1.6"/>
+<text x="817" y="645" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Discover / install</text>
+<circle cx="150" cy="45" r="8.8" fill="#EEF7F7" stroke="#006D6D" stroke-width="1.9800000000000002"/>
+<path d="M133.5 78.0 v-6.6000000000000005 a16.5 16.5 0 0 1 33.0 0 v6.6000000000000005" fill="none" stroke="#006D6D" stroke-width="1.9800000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="186" y="105" font-size="26" font-weight="600" fill="#0B1B1B" text-anchor="middle">People</text>
+<path d="M186 109 V127" fill="none" stroke="#6E8C8C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="921" y="36" width="151" height="94" rx="10" fill="#F3F8F8" stroke="#DDECEC" stroke-width="1.6"/>
+<rect x="914" y="29" width="151" height="94" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<path d="M914 56 h151" fill="none" stroke="#DDECEC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="927" cy="43" r="2.5" fill="#6E8C8C"/>
+<circle cx="937" cy="43" r="2.5" fill="#6E8C8C"/>
+<circle cx="947" cy="43" r="2.5" fill="#6E8C8C"/>
+<path d="M936 78 l12 11 l-12 11 M960 100 h20" fill="none" stroke="#006D6D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M939 98 h57.38" fill="none" stroke="#DDECEC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="990" y="172" font-size="26" font-weight="600" fill="#0B1B1B" text-anchor="middle">Agents</text>
+<rect x="416" y="163" width="368" height="176" rx="12" fill="#EEF7F7" stroke="#DDECEC" stroke-width="1.6"/>
+<text x="599" y="208" font-size="34" font-weight="650" fill="#006D6D" text-anchor="middle">Mesh</text>
+<text x="599" y="247" font-size="23" font-weight="450" fill="#0B1B1B" text-anchor="middle">Tasks · Comments · Memory</text>
+<path d="M444 266 H756" fill="none" stroke="#DDECEC" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="599" y="302" font-size="22" font-weight="500" fill="#0B1B1B" text-anchor="middle">MCP / REST · Events</text>
+<rect x="925" y="330" width="187" height="90" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<text x="1019" y="366" font-size="24" font-weight="600" fill="#0B1B1B" text-anchor="middle">Agent Runner</text>
+<text x="1019" y="398" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Claude Code · Codex</text>
+<path d="M926 487 Q926 477 936 477 H955.64 l12 12 H994 Q1004 489 1004 499 V527 Q1004 535 996 535 H934 Q926 535 926 527 Z" fill="#FFFFFF" stroke="#6E8C8C" stroke-width="1.8"/>
+<path d="M1018 487 Q1018 477 1028 477 H1047.64 l12 12 H1086 Q1096 489 1096 499 V527 Q1096 535 1088 535 H1026 Q1018 535 1018 527 Z" fill="#FFFFFF" stroke="#6E8C8C" stroke-width="1.8"/>
+<text x="1021" y="568" font-size="21" font-weight="500" fill="#0B1B1B" text-anchor="middle">Session + worktree</text>
+<rect x="62" y="480" width="236" height="98" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<text x="148" y="519" font-size="26" font-weight="600" fill="#0B1B1B" text-anchor="start">Keep</text>
+<text x="148" y="550" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="start">Secret references</text>
+<rect x="85" y="523" width="35" height="29" rx="5" fill="#EEF7F7" stroke="#DDECEC" stroke-width="1.6"/>
+<path d="M92 524 V514 a10 10 0 0 1 20 0 V524" fill="none" stroke="#006D6D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="67" y="646" width="232" height="70" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<path d="M86 678 Q86 668 96 668 H100.82 l12 12 H115 Q125 680 125 690 V689 Q125 697 117 697 H94 Q86 697 86 689 Z" fill="#FFFFFF" stroke="#6E8C8C" stroke-width="1.8"/>
+<text x="210" y="690" font-size="22" font-weight="500" fill="#0B1B1B" text-anchor="middle">Target host</text>
+<rect x="355" y="480" width="443" height="98" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<text x="385" y="518" font-size="26" font-weight="600" fill="#0B1B1B" text-anchor="start">TokenLedger</text>
+<text x="385" y="552" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="start">Tokens · Calls · Trends</text>
+<rect x="675" y="531" width="12" height="23" rx="2" fill="#006D6D" stroke="none" stroke-width="1.6"/>
+<rect x="699" y="513" width="12" height="41" rx="2" fill="#006D6D" stroke="none" stroke-width="1.6"/>
+<rect x="723" y="523" width="12" height="31" rx="2" fill="#006D6D" stroke="none" stroke-width="1.6"/>
+<rect x="747" y="502" width="12" height="52" rx="2" fill="#006D6D" stroke="none" stroke-width="1.6"/>
+<rect x="365" y="650" width="201" height="77" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<rect x="380" y="670" width="26" height="33" rx="3" fill="#EEF7F7" stroke="#DDECEC" stroke-width="1.6"/>
+<path d="M386 680 h14 M386 687 h9 M386 694 h12" fill="none" stroke="#6E8C8C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="490" y="682" font-size="21" font-weight="550" fill="#0B1B1B" text-anchor="middle">Your extension</text>
+<text x="490" y="710" font-size="20" font-weight="450" fill="#4B6B6B" text-anchor="middle">Manifest + version</text>
+<rect x="648" y="650" width="176" height="77" rx="10" fill="#FFFFFF" stroke="#DDECEC" stroke-width="1.6"/>
+<rect x="668" y="668" width="28" height="34" rx="3" fill="#EEF7F7" stroke="#DDECEC" stroke-width="1.6"/>
+<path d="M675 684.8 l4.0 4.0 l8.8 -10.4" fill="none" stroke="#006D6D" stroke-width="1.7600000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="753" y="697" font-size="26" font-weight="600" fill="#0B1B1B" text-anchor="middle">Spark</text>
+</g></svg>
